@@ -10,7 +10,7 @@ Dwelling in the mystical realm of coding, I'm a maestro in transforming coffee i
 - **Skills:** I excel in the ancient arts of Problem-solving, Leadership, and Team Collaboration
 
 ## 🏆 Chronicles of Triumph
-- **CodeStudio Ranking :**DSA Level 5 (Champion) 🔥
+- **CodeStudio Ranking :** DSA Level 5 (Champion) 🔥
 - **Next Level Rankings:**
   - Backend: Soared to the heights of 1026 out of 3745
   - Frontend: Illuminated the path, ranking 1057 out of 2695
